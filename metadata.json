@@ -1,0 +1,6 @@
+{
+  "name": "Raman Assayers - Jewellery Buying & Selling",
+  "description": "Established jewellery buying and selling in Alwarpet, Chennai with over 31+ years of experience. Transparent evaluation for gold, silver, diamonds, and platinum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
